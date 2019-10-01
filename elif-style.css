@@ -1,0 +1,138 @@
+/* FIRST ITERATION */
+
+body.elif-1 {
+  background: #95adbe ;
+  font-family: 'roboto', sans-serif ;
+  margin: 360px ;
+  text-align: center;
+  
+}
+body.elif-1 .one {
+  font-family: 'Stardos Stencil';
+  font-size: 90px;
+  font-weight: 90pt;
+  text-decoration: underline overline wavy #574f7d;
+  text-align: center;
+  padding: 10px;
+  color: #dff0ea ;
+  opacity: ;
+}
+
+body.elif-1 .two {
+  font-family: 'Stardos Stencil';
+  font-size: 40px;
+  font-weight: 40pt ;
+  text-decoration: ;
+  text-align: center ;
+  margin-top: -20px ;
+  color: #dff0ea;
+  opacity: ;
+}
+body.elif-1 .three{
+  font-family:'Stardos Stencil';
+  font-size: 20px;
+  font-weight: 10px;
+  text-decoration: line-through;
+  text-align: ;
+  padding: ;
+  color: #dff0ea;
+  opacity: ;
+}
+
+
+/* SECOND ITERATION */
+
+
+body.elif-2 {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+body.elif-2 .one {
+  font-family: 'Special Elite';
+  font-size: 120px;
+  font-weight: 120px ;
+  text-decoration: ;
+  text-align: center;
+  padding: ;
+  color: black;
+  opacity: ;
+}
+body.elif-2 .two {
+  font-family: 'Special Elite';
+  font-size:70px ;
+  font-weight:70px ;
+  text-decoration: ;
+  text-align: ;
+  padding: 200px;
+  margin-top:-50px;
+  color: black;
+  opacity: 0.5;
+}
+body.elif-2 .three{
+  font-family: 'Special Elite';
+  font-size: 40px ;
+  font-weight:40px ;
+  text-decoration: ;
+  text-align:center ;
+  padding:-30px ;
+  margin-top: -100px;
+  color: black;
+  opacity: 0.2;
+}
+
+
+/* THIRD ITERATION */
+
+
+body.elif-3 {
+  background:black;
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.elif-3 .one {
+   font-family: 'Special Elite';
+  font-size: 120px;
+  font-weight: 120px ;
+  text-decoration: ;
+  text-align: center;
+  padding: ;
+  color: white;
+  opacity: ;
+}
+
+body.elif-3 .two {
+ font-family: 'Special Elite';
+  font-size:70px ;
+  font-weight:70px ;
+  text-decoration: ;
+  text-align: ;
+  padding: 200px;
+  margin-top:-50px;
+  color: white;
+  opacity: 0.5;
+}
+
+body.elif-3 .three{
+   font-family: 'Special Elite';
+  font-size: 40px ;
+  font-weight:40px ;
+  text-decoration: ;
+  text-align:center ;
+  padding:-30px ;
+  margin-top: -100px;
+  color: white;
+  opacity: 0.2;
+}
